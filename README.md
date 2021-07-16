@@ -2,7 +2,7 @@
 
 ### My stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyaaaaaaaaaaaaaaa&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyaaaaaaaaaaaaaaa&count_private=true&show_icons=true&theme=midnight-purple)
 
 ### I'm currently working on
 
